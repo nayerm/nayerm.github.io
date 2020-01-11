@@ -3,7 +3,7 @@ title: "Mohammed Ibrahim"
 email:
 description: "Mohammed Ibrahim's Personal Site"
 baseurl: ""
-url: "http://mnayer.github.io"
+url:
 title_description: "Student at the University of Guelph working towards my Computer Science co-op degree with a minor in statistics. Graduating April 2022."
 title_image: "images/flutter.jpg"
 google_analytics: "UA-67857103-1"
