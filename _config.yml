@@ -5,7 +5,7 @@ description: "Mohammed Ibrahim's Personal Site"
 baseurl:
 url:
 title_description: "Student at the University of Guelph working towards my Computer Science co-op degree with a minor in statistics. Graduating April 2022."
-title_image: "images/arrows.jpg"
+title_image: "images/arrows.png"
 google_analytics: "UA-67857103-1"
 disqus_account:
 github_repository: https://mnayer.github.io
@@ -24,7 +24,7 @@ footer_left: "Friendship is Magic <i class=\"fa fa-heart\"></i></a>"
 footer_right: "&lt;/&gt; <i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
-markdown: redcarpet
+markdown:
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 permalink: pretty
