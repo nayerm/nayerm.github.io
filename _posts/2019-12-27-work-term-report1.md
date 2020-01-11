@@ -20,7 +20,7 @@ RPA is the use of software with AI capabilities to automate business tasks throu
 
 <h3 style="color:#e62555;">EMPLOYER INFORMATION</h3>
 
-I worked at the Co-operators Headquarters which is located in downtown Guelph. The co-operators is a Canadian insurance co-operative. My team was the eRPA Capability Team which is the team that manages the RPA solution. We often worked with the two other RPA teams within The Co-operators as well. 
+I worked at the Co-operators Headquarters which is located in downtown Guelph. The co-operators is a Canadian insurance co-operative. They own several companies including Co-operators Life Insurance Company, HB Group Insurance of Mississauga, The Sovereign General Insurance Company, CUMIS Group Limited, investment firm Addenda Capital and the Co-operators General Insurance Company which is the largest. My team was the eRPA Capability Team which is the team that manages the RPA solution. We often worked with the two other RPA teams within The Co-operators as well. 
 
 <h3 style="color:#e62555;">JOB DESCRIPTION</h3>
 

@@ -1,14 +1,14 @@
 # Site settings
 title: "Mohammed Ibrahim"
-email: yvoloshin01@gmail.com
-description: "Yury Voloshin's Personal Site"
+email:
+description: "Mohammed Ibrahim's Personal Site"
 baseurl: ""
 url: "http://mnayer.github.io"
 title_description: "Student at the University of Guelph"
 title_image: "images/flutter.jpg"
 google_analytics: "UA-67857103-1"
 disqus_account:
-github_repository: https://yvoloshin.github.io
+github_repository: http://mnayer.github.io
 addthis_id: 
 post_limit: 5
 
@@ -20,8 +20,8 @@ google_plus_link:
 stackoverflow_link:
 
 # Footer
-footer_left: "Template made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Friendship is Magic <i class=\"fa fa-heart\"></i></a>"
+footer_right: "&lt;/&gt; <i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: redcarpet
