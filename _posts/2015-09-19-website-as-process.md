@@ -10,21 +10,21 @@ tags:
 ---
 
 INTRODUCTION
-
 The following should showcase the experience I gained working as an RPA developer for the co-operators and what I learned.
-
-I mainly worked with RPA (robotics process automation) during my co-op work term.
-
+I mainly worked with RPA (robotics process automation) during my two co-op work terms: Summer 2019 and Fall 2019
 What is RPA?
-RPA is the use of software with AI capabilities to automate business tasks through the front-end, just like how a human would do it. It works b RPA handles high-volume, repeatable tasks the best.
-
-
-Employer Information
-I worked at the Co-operators Headquarters which is located in downtown Guelph. The co-operators is a Canadian insurance co-operative. My team was the eRPA Capability Team which is the team that manages the RPA solution. We often worked with the two other RPA teams within The Co-operators as well.
-
-
-Goals
+RPA is the use of software with AI capabilities to automate business tasks through the front-end, just like how a human would do it. RPA handles high-volume, repeatable tasks the best.
+EMPLOYER INFORMATION
+I worked at the Co-operators Headquarters which is located in downtown Guelph. The co-operators is a Canadian insurance co-operative. My team was the eRPA Capability Team which is the team that manages the RPA solution. We often worked with the two other RPA teams within The Co-operators as well. 
+JOB DESCRIPTION
+We used UiPath which is a software used to program RPA processes. It works by using “selectors” which are the UI elements that actions like clicking, typing and reading are performed on. The coding portion is done in VB .NET. I was first tasked with supporting processes that belonged to 4 different business units and fixing any bugs and failures that came up. I also took turns with people on my team to be “on call” and respond to tickets coming from process owners or developers from other RPA teams within the company and since I was part of the team that manages the RPA solution, we would respond to tasks that are administrative in nature. 
+After a few weeks I was tasked with designing and deploying my first process using the Robotics Enterprise Framework which was starting to become the new standard for developing automation processes at the co-operators.
+During my 2nd work term, I thought I could improve the state of documentation for RPA processes so I came up with a Process Design Document (PDD) which includes all the fields from the previously used document but with added sections for Process overview which includes screenshots and descriptions of the steps a human would take to complete the task, a section for process overview and documentation on how to run the process in the non-production environment and an overall redesign that is much easier to navigate. I’ve received positive remarks from both process owners and developers for improving how we handle documentation.
+I also developed the first “attended” RPA process at the cooperators which instead of running on an unattended virtual machine, runs on demand on an employee’s computer.
+GOALS
 My first goal was to be able to design automation processes that are based on automating front-ends as opposed to using an api. This poses several challenges as user interfaces can change in unpredictable ways. Over time through developing and maintaining processes I learned what makes reliable selectors which came in handy when a one of our longest processes had to be updated on short notice due to an update being pushed to the system being automated.
+I also improved my data visualization skills and figuring out how different users interact with user interfaces. When I was finalizing a company-wide available dashboard I created I decided to run an experiment to figure out how they should look (mention kibana above/before) I asked people on my floor to come over to my desk and try to navigate the dashboard without providing them with any instructions. Then, I would implement changes based on their feedback and bring over a different person and watch them try to navigate it and implement more changes based on that. This taught me that some things that might seem intuitive to me especially when it comes to user interfaces might not be for others even people who work in IT. That final dashboard has been and still is used to track metrics about processes we automate and my manager used it several times to create reports required by my manager.
+Of course, it goes without saying that my professional communication skills improved greatly during my work term and everyone I have worked with can attest to how great I am to work with!
 
-I also improved my data visualization skills and figuring out how different users interact with user interfaces. When I was finalizing a company-wide available dashboard I created I decided to run an experiment to figure out how they should look (mention kibana above/before) I asked people on my floor to come over to my desk and try to navigate the dashboard without providing them with any instructions. Then, I would implement changes based on their feedback and bring over a different person and watch them try to navigate it and implement more changes based on that. This taught me that some things that might seem intuitive to me especially when it comes to user interfaces might not be for others even people who work in IT. That final dashboard has been and still is used to track metrics about processes we automate and my manager used it several times to create reports required from her.
+
 
