@@ -9,7 +9,7 @@ tags:
  - Co-operators
 ---
 
-<h3> INTRODUCTION </h3>
+<h3 style="color:#e62555;"> INTRODUCTION </h3>
 
 The following should showcase the experience I gained working as an RPA developer for the co-operators and what I learned.
 I mainly worked with RPA (robotics process automation) during my two co-op work terms: Summer 2019 and Fall 2019
@@ -33,11 +33,13 @@ During my 2nd work term, I thought I could improve the state of documentation fo
 I also developed the first “attended” RPA process at the cooperators which instead of running on an unattended virtual machine, runs on demand on an employee’s computer.
 
 GOALS
+
 My first goal was to be able to design automation processes that are based on automating front-ends as opposed to using an api. This poses several challenges as user interfaces can change in unpredictable ways. Over time through developing and maintaining processes I learned what makes reliable selectors which came in handy when a one of our longest processes had to be updated on short notice due to an update being pushed to the system being automated.
 
 I also improved my data visualization skills and figuring out how different users interact with user interfaces. When I was finalizing a company-wide available dashboard I created I decided to run an experiment to figure out how they should look (mention kibana above/before) I asked people on my floor to come over to my desk and try to navigate the dashboard without providing them with any instructions. Then, I would implement changes based on their feedback and bring over a different person and watch them try to navigate it and implement more changes based on that. This taught me that some things that might seem intuitive to me especially when it comes to user interfaces might not be for others even people who work in IT. That final dashboard has been and still is used to track metrics about processes we automate and my manager used it several times to create reports required by my manager.
 
 Of course, it goes without saying that my professional communication skills improved greatly during my work term and everyone I have worked with can attest to how great I am to work with!
 
+CONCLUSION
 
 
