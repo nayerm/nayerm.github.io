@@ -48,4 +48,4 @@ At the end of my 2nd work term, I felt like I have contributed a lot to Robotics
 
 <h3 style="color:#e62555;">Acknowledgements</h3>
 
-I would like to thank my team members Zoran Kubat, Zaman Chagani, Connor Rieger, Austin Bursey and my especially my manager Virna Uliana. I would also like to extend my thanks to the RPA developers outside my team who I have had the please of dealing with Vikas Vattikonda, Miso Kajtez, Jeff Halderman and Leo Heath. Lastly, I would like to thank the great process owners Nicole Urquhart, Grace Yerokun, Craig Mckersie, Dennis Cobalchini, and Patrycja Smiech. 
+I would like to thank my team members Zoran Kubat, Zaman Chagani, Connor Rieger, Austin Bursey and my especially my manager Virna Uliana. I would also like to extend my thanks to the RPA developers outside my team who I have had the pleasure of dealing with Vikas Vattikonda, Miso Kajtez, Jeff Halderman and Leo Heath. Lastly, I would like to thank the great process owners Nicole Urquhart, Grace Yerokun, Craig Mckersie, Dennis Cobalchini, and Patrycja Smiech. 
